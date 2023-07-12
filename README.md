@@ -1,11 +1,11 @@
 # Set-Up-Network-and-HTTP-Load-Balancers
+
 TASK - 1
-Task-1
 gcloud auth list
 gcloud config list project
 gcloud config set compute/region us-central1
 gcloud config set compute/region us-central1
-*********************************************************************
+
 Task-2
 gcloud compute instances create www1 \
 --zone=us-central1-c \
