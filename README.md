@@ -2,8 +2,11 @@
 
 TASK - 1
 gcloud auth list
+
 gcloud config list project
+
 gcloud config set compute/region us-central1
+
 gcloud config set compute/region us-central1
 
 Task-2
